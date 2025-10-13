@@ -2,7 +2,7 @@
 
 # 🌟 ETHAN LINDSAY
 
-# Aspiring
+## Aspiring
 
 ### `Software Engineer` | `Full-Stack Developer` | `Tech Innovator`
 
