@@ -2,6 +2,8 @@
 
 # 🌟 ETHAN LINDSAY
 
+# Aspiring
+
 ### `Software Engineer` | `Full-Stack Developer` | `Tech Innovator`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Building+the+future%2C+one+commit+at+a+time;From+IoT+circuits+to+cloud+solutions;Turning+coffee+into+code+%E2%98%95%EF%B8%8F)](https://git.io/typing-svg)
