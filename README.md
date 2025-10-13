@@ -2,75 +2,62 @@
 
 # 🌟 ETHAN LINDSAY
 
-### Aspiring
+### Software Engineer | Full-Stack Developer | Tech Innovator
 
-### `Software Engineer` | `Full-Stack Developer` | `Tech Innovator`
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Building+the+future%2C+one+commit+at+a+time;From+IoT+circuits+to+cloud+solutions;Turning+coffee+into+code+%E2%98%95%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=435&lines=Building+the+future;From+IoT+to+cloud+solutions;Turning+coffee+into+code+%E2%98%95)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=EthanLindsay&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ethanlindsay)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ethanlindsay)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your_email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=flat&logo=google-chrome&logoColor=white)](#)
 
 </div>
 
 ---
 
-## 🎯 About Me
+## 👋 About Me
 
-<table>
-<tr>
-<td width="60%">
+Hey there! I'm **Ethan**, a **Software Engineering student** from **South Africa** 🇿🇦 with a passion for creating innovative solutions that bridge the gap between **hardware and software**.
 
-### 👋 Hey there! I'm Ethan
-
-I'm a **Software Engineering student** from **South Africa** 🇿🇦 with a passion for creating innovative solutions that bridge the gap between **hardware and software**.
-
-#### 🔥 Currently:
+### 🔥 Currently:
 - 🎓 Studying **Computer Science (Software Engineering)**
 - 💼 Building a **Full-Stack Eco Platform** with .NET & React
 - 🌱 Diving deep into **Machine Learning** and **Cloud Architecture**
 - 🔧 Experimenting with **Arduino** and **IoT devices**
 
-#### 🎯 My Interests:
+### 🎯 My Interests:
 - **Machine Learning** → Making data tell stories
 - **Web Development** → Crafting seamless user experiences  
 - **Automation** → Because efficiency matters
 - **IoT Projects** → Bringing hardware to life with code
 
-#### 💡 Ask Me About:
+### 💡 Ask Me About:
 - 🗄️ SQL Server & Database Design
 - 🔌 Arduino Projects & Circuit Design
 - 🌐 .NET Core Development
 - ⚙️ Building scalable web applications
 
-</td>
-<td width="40%">
-
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="coding gif" width="100%">
-
-### 📊 Quick Stats
+<details>
+<summary>📊 Quick Stats & More</summary>
+<br>
 
 ```text
 🎂 Started Coding: 2020
 ☕ Coffee Consumed: ∞
-🐛 Bugs Fixed: Too many
+🐛 Bugs Fixed: Too many to count
 💡 Projects Completed: 15+
-🌟 GitHub Stars: Growing
+🌟 GitHub Stars: Growing daily
 🔥 Current Streak: Active
 ```
 
 ### 🎮 When I'm Not Coding:
-- 📚 Reading tech blogs
-- 🎯 Building circuits
-- 🎮 Gaming
-- 🌐 Exploring new tech
+- 📚 Reading tech blogs and documentation
+- 🎯 Building circuits and tinkering
+- 🎮 Gaming and exploring virtual worlds
+- 🌐 Exploring cutting-edge technologies
 
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
@@ -80,62 +67,73 @@ I'm a **Software Engineering student** from **South Africa** 🇿🇦 with a pas
 
 ## 🛠️ Tech Arsenal
 
-<div align="center">
+<details open>
+<summary><b>💻 Languages</b></summary>
+<br>
 
-### 💻 Languages
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-### 🚀 Frameworks & Libraries
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PowerApps](https://img.shields.io/badge/PowerApps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
+</details>
 
-### 🗄️ Databases & Cloud
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+<details open>
+<summary><b>🚀 Frameworks & Libraries</b></summary>
+<br>
 
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![PowerApps](https://img.shields.io/badge/PowerApps-742774?style=flat&logo=powerapps&logoColor=white)
 
-</div>
+</details>
+
+<details open>
+<summary><b>🗄️ Databases & Cloud</b></summary>
+<br>
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🛠️ Tools & Platforms</b></summary>
+<br>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+</details>
 
 ---
 
 ## 🏆 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
 ### 🌱 Eco Habit Tracker
-**Full-Stack Environmental Impact App**
+**Full-Stack Environmental Impact Application**
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-Track daily eco-friendly habits with gamification and impact visualization.
+Track daily eco-friendly habits with gamification and impact visualization. Help save the planet, one habit at a time! 🌍
 
-**Features:**
-- 🎯 Habit tracking with streaks
-- 📊 Personal impact dashboard
-- 🏅 Achievement system
-- 📱 Responsive design
+**Key Features:**
+- 🎯 Daily habit tracking with streak counters
+- 📊 Personal environmental impact dashboard
+- 🏅 Achievement and reward system
+- 📱 Fully responsive mobile-first design
 
 [View Project →](https://github.com/EthanLindsay/Eco-Habit-Tracker)
 
-</td>
-<td width="50%">
+---
 
 ### ⚙️ Product Costing Database
 **Enterprise-Grade SQL Solution**
@@ -143,20 +141,17 @@ Track daily eco-friendly habits with gamification and impact visualization.
 ![SQL](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![T-SQL](https://img.shields.io/badge/-T--SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-Complete database system with advanced procedures and automation.
+Complete database system with advanced stored procedures, triggers, and automation for product cost management.
 
-**Features:**
-- 🔐 Secure authentication system
-- ⚡ Optimized stored procedures
-- 🔄 Automated triggers
-- 📈 Comprehensive reporting
+**Key Features:**
+- 🔐 Secure authentication and authorization system
+- ⚡ Highly optimized stored procedures
+- 🔄 Automated triggers for data integrity
+- 📈 Comprehensive reporting and analytics
 
 [View Project →](https://github.com/EthanLindsay/Product-Costing-DB)
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+---
 
 ### 🔌 Arduino Password Game
 **Interactive Hardware Project**
@@ -164,34 +159,28 @@ Complete database system with advanced procedures and automation.
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-Custom circuit-based logic game with LED feedback and sound effects.
+Custom-built circuit-based logic game featuring LED feedback, sound effects, and progressive difficulty levels.
 
-**Features:**
-- 🎮 Interactive gameplay
-- 💡 Dynamic LED patterns
-- 🔊 Buzzer sound effects
-- 🧩 Difficulty levels
+**Key Features:**
+- 🎮 Interactive gameplay with physical buttons
+- 💡 Dynamic LED pattern feedback system
+- 🔊 Buzzer sound effects for audio feedback
+- 🧩 Multiple difficulty levels
 
 [View Project →](https://github.com/EthanLindsay/Password-Game)
 
-</td>
-<td width="50%">
+---
 
-### 🚀 More Coming Soon...
+### 🚀 More Projects Coming Soon...
+
 **Currently Building:**
+- 🤖 AI-powered study assistant with ML integration
+- 📦 Real-time package tracking system
+- 🌐 Personal portfolio website with modern design
 
-- 🤖 AI-powered study assistant
-- 📦 Package tracking system
-- 🌐 Personal portfolio site
+**Want to collaborate?** I'm always open to interesting projects and learning opportunities!
 
-**Want to collaborate?**  
-Open to interesting projects!
-
-[Explore All Repos →](https://github.com/EthanLindsay?tab=repositories)
-
-</td>
-</tr>
-</table>
+[Explore All Repositories →](https://github.com/EthanLindsay?tab=repositories)
 
 ---
 
@@ -199,31 +188,53 @@ Open to interesting projects!
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=EthanLindsay&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=C9D1D9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=EthanLindsay&theme=radical&hide_border=true&background=0D1117&ring=00F7F7&fire=FF6B35&currStreakLabel=00F7F7" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=EthanLindsay&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=C9D1D9" alt="GitHub Stats" />
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=EthanLindsay&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=EthanLindsay&theme=radical&hide_border=true&background=0D1117&ring=00F7F7&fire=FF6B35&currStreakLabel=00F7F7" alt="GitHub Streak" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanLindsay&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=C9D1D9" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EthanLindsay&theme=radical" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=EthanLindsay&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF" alt="Contribution Graph" />
 
 </div>
+
+<details>
+<summary><b>📈 More GitHub Stats</b></summary>
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanLindsay&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=C9D1D9" alt="Top Languages" />
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EthanLindsay&theme=radical&utcOffset=2" alt="Productive Time" />
+
+</div>
+
+</details>
 
 ---
 
 ## 🎖️ Achievements & Certifications
 
-```text
-🏅 GitHub Achievements
-├─ 🌟 Quickdraw       │ Closed an issue/PR within 5 minutes
-├─ ⭐ Starstruck     │ Created a repository with 16+ stars
-└─ 🚀 Pull Shark     │ Opened pull requests that were merged
+<details>
+<summary><b>View My Achievements</b></summary>
+<br>
 
-📜 Certifications (Pursuing)
-├─ Microsoft Azure Fundamentals (AZ-900)
-├─ AWS Cloud Practitioner
-└─ MongoDB Developer Certification
-```
+### 🏅 GitHub Achievements
+- 🌟 **Quickdraw** - Closed an issue or pull request within 5 minutes of opening
+- ⭐ **Starstruck** - Created a repository that reached 16+ stars
+- 🚀 **Pull Shark** - Opened pull requests that have been merged
+
+### 📜 Certifications (Pursuing)
+- 🔷 Microsoft Azure Fundamentals (AZ-900)
+- ☁️ AWS Cloud Practitioner
+- 🍃 MongoDB Developer Certification
+
+### 🎯 Goals for 2025
+- Complete 3 major certifications
+- Contribute to 5+ open source projects
+- Launch personal SaaS product
+- Master machine learning fundamentals
+
+</details>
 
 ---
 
@@ -241,7 +252,7 @@ Open to interesting projects!
 
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=00f7f7&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=00f7f7&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true)
 
 </div>
 
@@ -257,19 +268,40 @@ Open to interesting projects!
 
 ---
 
+## 📫 Get In Touch
+
 <div align="center">
 
-### 💭 "The best code is no code at all... but since we can't have that, let's make it elegant." 
+I'm always interested in hearing about new projects and opportunities!
 
-### ⚡ Let's Build Something Amazing Together!
+### Let's Connect:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ethanlindsay)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your_email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=flat&logo=google-chrome&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/EthanLindsay)
+
+### Show Some ❤️:
 
 [![GitHub followers](https://img.shields.io/github/followers/EthanLindsay?style=social)](https://github.com/EthanLindsay)
 [![GitHub stars](https://img.shields.io/github/stars/EthanLindsay?style=social)](https://github.com/EthanLindsay)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 "The best code is no code at all... but since we can't have that, let's make it elegant."
+
+### ⚡ Let's Build Something Amazing Together!
 
 ---
 
 **Made with ❤️, ☕, and countless Stack Overflow tabs**
 
-*Last Updated: 2025 | Built with Markdown & Passion*
+*Last Updated: October 2025 | Built with Markdown & Passion*
+
+<sub>Thanks for visiting! Don't forget to ⭐ my repositories if you find them useful!</sub>
 
 </div>
