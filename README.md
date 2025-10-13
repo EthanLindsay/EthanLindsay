@@ -18,35 +18,61 @@
 
 ## 🎯 About Me
 
-```typescript
-const ethan = {
-  location: "🇿🇦 South Africa",
-  education: "Computer Science (Software Engineering)",
-  currentFocus: ["Machine Learning", "Cloud Architecture", "IoT Solutions"],
-  learning: ["Advanced C#", "Microservices", "DevOps Practices"],
-  
-  lifeMotto: "Code is poetry written in logic 🎨",
-  
-  workingOn: {
-    project: "Full-Stack Eco Platform",
-    technologies: [".NET Core", "React", "SQL Server"],
-    status: "🔥 In Active Development"
-  },
-  
-  funFact: "I can make LEDs blink in 5 different languages! 💡"
-};
+<table>
+<tr>
+<td width="60%">
+
+### 👋 Hey there! I'm Ethan
+
+I'm a **Software Engineering student** from **South Africa** 🇿🇦 with a passion for creating innovative solutions that bridge the gap between **hardware and software**.
+
+#### 🔥 Currently:
+- 🎓 Studying **Computer Science (Software Engineering)**
+- 💼 Building a **Full-Stack Eco Platform** with .NET & React
+- 🌱 Diving deep into **Machine Learning** and **Cloud Architecture**
+- 🔧 Experimenting with **Arduino** and **IoT devices**
+
+#### 🎯 My Interests:
+- **Machine Learning** → Making data tell stories
+- **Web Development** → Crafting seamless user experiences  
+- **Automation** → Because efficiency matters
+- **IoT Projects** → Bringing hardware to life with code
+
+#### 💡 Ask Me About:
+- 🗄️ SQL Server & Database Design
+- 🔌 Arduino Projects & Circuit Design
+- 🌐 .NET Core Development
+- ⚙️ Building scalable web applications
+
+</td>
+<td width="40%">
+
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="coding gif" width="100%">
+
+### 📊 Quick Stats
+
+```text
+🎂 Started Coding: 2020
+☕ Coffee Consumed: ∞
+🐛 Bugs Fixed: Too many
+💡 Projects Completed: 15+
+🌟 GitHub Stars: Growing
+🔥 Current Streak: Active
 ```
 
-<details>
-<summary>📊 More About My Journey</summary>
+### 🎮 When I'm Not Coding:
+- 📚 Reading tech blogs
+- 🎯 Building circuits
+- 🎮 Gaming
+- 🌐 Exploring new tech
 
-- 🌱 Started coding in **2020** — never looked back
-- 🎓 Constantly learning through **online courses, hackathons, and personal projects**
-- 🤝 Open to collaborating on **innovative open-source projects**
-- 💬 Ask me about **database design, Arduino projects, or .NET development**
-- ⚡ When I'm not coding: exploring tech blogs, tinkering with electronics, or gaming
+</td>
+</tr>
+</table>
 
-</details>
+---
+
+> 💭 **Life Motto:** *"The best way to predict the future is to build it"*
 
 ---
 
