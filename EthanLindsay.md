@@ -74,16 +74,12 @@ Most of what I build sits somewhere between the backend and the interface. I lik
 
 <div align="center">
 
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=EthanLindsay&show_icons=true&hide_border=true&bg_color=0D1117&title_color=4FD1C5&icon_color=4FD1C5&text_color=C9D1D9&include_all_commits=true&rank_icon=github&cache_seconds=86400" alt="GitHub stats" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=EthanLindsay&layout=compact&hide_border=true&bg_color=0D1117&title_color=4FD1C5&text_color=C9D1D9&langs_count=8&cache_seconds=86400" alt="Top languages" />
-
-  <br/>
-
-  <img height="165" src="https://streak-stats.demolab.com?user=EthanLindsay&hide_border=true&background=0D1117&stroke=1F2937&ring=4FD1C5&fire=F6AD55&currStreakLabel=4FD1C5&sideLabels=C9D1D9&dates=8B949E" alt="Streak" />
+  <img height="180" align="center" src="https://github-stats-extended.vercel.app/api?username=EthanLindsay&show_icons=true&hide=stars,issues&hide_border=true&bg_color=0D1117&title_color=4FD1C5&icon_color=4FD1C5&text_color=C9D1D9&include_all_commits=true&rank_icon=github&card_width=430&cache_seconds=86400" alt="GitHub stats" />
+  <img height="180" align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=EthanLindsay&layout=compact&hide_border=true&bg_color=0D1117&title_color=4FD1C5&text_color=C9D1D9&langs_count=8&size_weight=0.5&count_weight=0.5&card_width=330&cache_seconds=86400" alt="Top languages" />
 
   <br/><br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EthanLindsay&bg_color=0D1117&color=4FD1C5&line=4FD1C5&point=FFFFFF&area=true&hide_border=true" width="98%" alt="Activity graph" />
+  <img height="165" src="https://streak-stats.demolab.com?user=EthanLindsay&hide_border=true&background=0D1117&stroke=1F2937&ring=4FD1C5&fire=F6AD55&currStreakLabel=4FD1C5&sideLabels=C9D1D9&dates=8B949E" alt="Streak" />
 
 </div>
 
