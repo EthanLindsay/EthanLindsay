@@ -54,13 +54,13 @@ Most of what I build sits somewhere between the backend and the interface. I lik
 
 ## Selected Work
 
-> **⚠️ FILL THIS IN, THEN DELETE THIS LINE** — swap each `REPO-NAME` for the real repository name, and cut any row that isn't public yet.
-
 | Project | What it is | Built with |
 |---|---|---|
-| **[VR Campus Tour](https://github.com/EthanLindsay/REPO-NAME)** | Interactive VR walkthrough of the Belgium Campus grounds, with custom interactables and a working build pipeline. | Unreal Engine 5, C++, Blender |
-| **[Event Management Platform](https://github.com/EthanLindsay/REPO-NAME)** | Full-stack event app built on an MVC architecture with server-side rendering and a document data model. | Node.js, Express, MongoDB, Mongoose |
-| **[Inventory Management System](https://github.com/EthanLindsay/REPO-NAME)** | Desktop inventory system with a layered MVC design and a relational backend. | Java, JDBC, PostgreSQL, Swing |
+| **[VR Campus Tour]([https://github.com/EthanLindsay/REPO-NAME](https://github.com/PRJ381-org/Belgium_Campus_Tours))** | Interactive VR walkthrough of the Belgium Campus grounds, with custom interactables and a working build pipeline. | Unreal Engine 5, C++, Blender |
+| **[CivicConnect Ticketing System](https://github.com/SEN381-org/Ticketing-System)** | Team-built ticketing and service-request system for a university. Currently in the requirements and design phase — architecture and specification work ahead of implementation. | Markdown (docs) · stack TBC |
+| **[Event Management Platform]([https://github.com/EthanLindsay/REPO-NAME](https://github.com/EthanLindsay/WebProgramming381-Event-Project))** | Full-stack event app built on an MVC architecture with server-side rendering and a document data model. | Node.js, Express, MongoDB, Mongoose |
+| **[Inventory Management System](https://github.com/KingGoblin606/Track-B-Desktop-Application)** | Desktop inventory system with a layered MVC design and a relational backend. | Java, JDBC, PostgreSQL, Swing |
+| **[Superhero Dashboard](https://github.com/EthanLindsay/Programmming282_Project)** | Management system for cataloguing and administering superhero records, with full CRUD across the roster. | C#, Windows Forms |
 
 <div align="center">
   <a href="https://github.com/EthanLindsay?tab=repositories">
@@ -79,7 +79,7 @@ Most of what I build sits somewhere between the backend and the interface. I lik
 
   <br/><br/>
 
-  <img height="165" src="https://streak-stats.demolab.com?user=EthanLindsay&hide_border=true&background=0D1117&stroke=1F2937&ring=4FD1C5&fire=F6AD55&currStreakLabel=4FD1C5&sideLabels=C9D1D9&dates=8B949E" alt="Streak" />
+  <img height="165" src="https://streak-stats.demolab.com?user=EthanLindsay&hide_border=true&background=0D1117&stroke=1F2937&ring=4FD1C5&fire=F6AD55&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=4FD1C5&sideLabels=C9D1D9&dates=8B949E" alt="Streak" />
 
 </div>
 
